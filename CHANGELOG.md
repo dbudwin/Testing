@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/dbudwin/Testing/compare/v1.4.0...v1.4.1) (2024-02-13)
+
+
+### 🐞 Bug Fixes
+
+* **foo:** update version number ([a133ed2](https://github.com/dbudwin/Testing/commit/a133ed24d82351ba669ea8d22135585dd9e71e71))
+
 ## [1.4.0](https://github.com/dbudwin/Testing/compare/v1.3.1...v1.4.0) (2024-02-13)
 
 
