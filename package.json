@@ -1,7 +1,7 @@
 {
   "name": "testing",
   "version": "1.0.3",
-  "description": "Hello world",
+  "description": "Hello world 2",
   "main": "index.js",
   "private": true,
   "type": "module",
