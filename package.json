@@ -6,7 +6,6 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "release": "semantic-release",
     "prepare": "husky"
   },
   "repository": {
