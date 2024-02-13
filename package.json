@@ -1,7 +1,7 @@
 {
   "name": "testing",
   "version": "1.0.3",
-  "description": "Hi.  How are you?  Good.",
+  "description": "This is neat",
   "main": "index.js",
   "private": true,
   "type": "module",
