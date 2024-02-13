@@ -17,6 +17,8 @@ const Configuration: UserConfig = {
    */
   extends: ["@commitlint/config-conventional"],
 
+  // Use this to get scopes: https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-lerna-scopes
+
   /*
    * Any rules defined here will override rules from @commitlint/config-conventional
    */
