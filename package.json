@@ -1,7 +1,7 @@
 {
   "name": "testing",
   "version": "1.0.3",
-  "description": "First changes",
+  "description": "Second change 2",
   "main": "index.js",
   "private": true,
   "type": "module",
