@@ -1,7 +1,7 @@
 {
   "name": "testing",
   "version": "1.0.3",
-  "description": "Some description.  And more details.",
+  "description": "Some description.  And more details.  A new thing.  Stuff.",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/dbudwin/Testing.git"
   },
-  "author": "",
+  "author": "Drew",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dbudwin/Testing/issues"
