@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/dbudwin/Testing/compare/v1.3.0...v1.3.1) (2024-02-13)
+
+
+### 🐞 Bug Fixes
+
+* **bar:** add ability to write on PRs ([8edd970](https://github.com/dbudwin/Testing/commit/8edd970b2454d0d9c5b22e13e84f82d8ec6abd04))
+
 ## [1.3.0](https://github.com/dbudwin/Testing/compare/v1.2.0...v1.3.0) (2024-02-13)
 
 
