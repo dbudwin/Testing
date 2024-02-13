@@ -1,5 +1,6 @@
 {
   "branches": ["main"],
   "dryRun": true,
-  "ci": false
+  "ci": false,
+  "repositoryUrl": "git@github.com:dbudwin/Testing.git"
 }
