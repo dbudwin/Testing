@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "commit": "commit",
+    "commit": "cz",
     "test": "echo \"Error: no test specified\"",
     "prepare": "husky"
   },
@@ -20,9 +20,10 @@
   },
   "homepage": "https://github.com/dbudwin/Testing#readme",
   "devDependencies": {
-    "@commitlint/cli": "^18.6.1",
-    "@commitlint/config-conventional": "^18.6.1",
-    "@commitlint/prompt-cli": "^18.6.1",
+    "@commitlint/cli": "^18.6.0",
+    "@commitlint/config-conventional": "^18.6.0",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
     "husky": "^9.0.10",
     "semantic-release": "^23.0.2"
   }
