@@ -14,8 +14,6 @@
           "types": [
             { "type": "feat", "section": "🚀 Features", "hidden": false },
             { "type": "fix", "section": "🐞 Bug Fixes", "hidden": false },
-            { "type": "docs", "section": "🧹 Miscellaneous Chores", "hidden": false },
-            { "type": "chore", "section": "🧹 Miscellaneous Chores", "hidden": false }
           ]
         }
       }
@@ -31,7 +29,7 @@
     [
       "@semantic-release/git",
       {
-        "assets": ["CHANGELOG.md"]
+        "assets": ["package.json", "package-lock.json", "CHANGELOG.md"]
       }
     ]
   ],
