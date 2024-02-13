@@ -25,7 +25,7 @@ const Configuration: UserConfig = {
   rules: {
     "header-min-length": [RuleConfigSeverity.Error, "always", 20],
     "scope-empty": [RuleConfigSeverity.Error, "never"],
-    "scope-enum": [RuleConfigSeverity.Error, "always", ["foo", "bar", "baz"]],
+    "scope-enum": [RuleConfigSeverity.Error, "always", ["foo", "bar", "baz", "release"]],
   },
 };
 
