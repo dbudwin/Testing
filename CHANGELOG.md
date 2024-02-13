@@ -1,3 +1,16 @@
+## [1.4.0](https://github.com/dbudwin/Testing/compare/v1.3.1...v1.4.0) (2024-02-13)
+
+
+### 🚀 Features
+
+* **foo:** testing with the second PR ([f06c256](https://github.com/dbudwin/Testing/commit/f06c2568a3413c5b2d26492c3dc432e2d10dad48))
+
+
+### 🐞 Bug Fixes
+
+* **foo:** doing some more stuff ([a71c8e4](https://github.com/dbudwin/Testing/commit/a71c8e4c0b58d77c1075518d9b635983a71b772b))
+* **foo:** testing with release multiple PRs part 1 ([3525fd6](https://github.com/dbudwin/Testing/commit/3525fd66f5a4bf7511e36620b25fd4e5abc89322))
+
 ## [1.3.1](https://github.com/dbudwin/Testing/compare/v1.3.0...v1.3.1) (2024-02-13)
 
 
