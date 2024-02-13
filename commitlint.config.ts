@@ -1,5 +1,14 @@
+// import { PathLike, readdirSync, statSync } from "fs";
+
 import { RuleConfigSeverity } from "@commitlint/types";
 import type { UserConfig } from "@commitlint/types";
+
+// const getDirectories = (source: PathLike): string[] =>
+//   readdirSync(source)
+//   .filter(file => statSync(path.join(source, file))
+//   .isDirectory())
+
+// console.log(getDirectories("packages"))
 
 const Configuration: UserConfig = {
   /*
@@ -14,6 +23,7 @@ const Configuration: UserConfig = {
   rules: {
     "header-min-length": [RuleConfigSeverity.Error, "always", 20],
     "scope-empty": [RuleConfigSeverity.Error, "never"],
+    "scope-enum": [RuleConfigSeverity.Error, "always", ["foo", "bar", "baz"]],
   },
 };
 
