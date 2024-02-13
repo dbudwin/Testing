@@ -1,7 +1,7 @@
 {
   "name": "testing",
   "version": "1.0.3",
-  "description": "",
+  "description": "Some description",
   "main": "index.js",
   "private": true,
   "scripts": {
