@@ -1,5 +1,5 @@
 {
   "branches": ["main"],
-  "ci": false,
+  "ci": true,
   "repositoryUrl": "git@github.com:dbudwin/Testing.git"
 }
